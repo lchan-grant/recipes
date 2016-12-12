@@ -1,0 +1,6 @@
+You need to perform a git init to initialize and create a repo.
+
+
+The staging area houses modified files.  It separates original or previous versions from currently modified files.
+
+Modified 12/12/2016.
